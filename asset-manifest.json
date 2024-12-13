@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfoliobuilder/static/css/main.6591ea6f.css",
-    "main.js": "/portfoliobuilder/static/js/main.b5354bd2.js",
+    "main.js": "/portfoliobuilder/static/js/main.9a70a100.js",
     "static/media/Roni.png": "/portfoliobuilder/static/media/Roni.841e5f72f9ec49c6acd1.png",
     "static/media/alliedmedix.jpg": "/portfoliobuilder/static/media/alliedmedix.1cc55fcf75b2e36ddc38.jpg",
     "static/media/Rohan Kulkarni.pdf": "/portfoliobuilder/static/media/Rohan Kulkarni.3e273be4865fc4a435bd.pdf",
     "index.html": "/portfoliobuilder/index.html",
     "main.6591ea6f.css.map": "/portfoliobuilder/static/css/main.6591ea6f.css.map",
-    "main.b5354bd2.js.map": "/portfoliobuilder/static/js/main.b5354bd2.js.map"
+    "main.9a70a100.js.map": "/portfoliobuilder/static/js/main.9a70a100.js.map"
   },
   "entrypoints": [
     "static/css/main.6591ea6f.css",
-    "static/js/main.b5354bd2.js"
+    "static/js/main.9a70a100.js"
   ]
 }
